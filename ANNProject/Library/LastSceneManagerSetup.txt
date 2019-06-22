@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ANNProject/Example Scenes/FlappyBird/birdscene.unity
+  isLoaded: 1
+  isActive: 1
